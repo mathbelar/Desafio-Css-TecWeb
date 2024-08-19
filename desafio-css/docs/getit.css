@@ -44,6 +44,7 @@ body {
   background-color: #f7d736;
 
   transition: background-color 0.3s;
+  
 }
 
 .btn > * {
@@ -92,7 +93,10 @@ body {
   height: 70px;
 }
 .subtitle{
-  margin-left: 18px;
+  margin-left: 20px;
   font-size: x-large;
 }
 
+.card-title1{
+  justify-content: center;
+}
